@@ -29,4 +29,9 @@ english=int(input("enter 3rd number"))
 total=math+hindi+english
 parsent=total*100/300
 print(parsent,"%")
-    
+
+if a>5:
+    print("aria of cercle",3.14*a*a)
+else:
+    d=int(input("enter a 4rdnumber"))
+    print(c+d+b+a)agi
