@@ -23,14 +23,10 @@ if a%2==0:
 else:
     print("aria of rectangle",a*c)
 '''
-a=int(input("enter a 1stnumber"))
-b=int(input("enter a 2ndnumber"))
-c=int(input("enter a 3rdnumber"))
+math=int(input("enter first number"))
+hindi=int(input("enter 2nd number"))
+english=int(input("enter 3rd number"))
+total=math+hindi+english
+parsent=total*100/300
+print(parsent,"%")
 
-if a>5:
-    print("aria of cercle",3.14*a*a)
-else:
-    d=int(input("enter a 4rdnumber"))
-    print(c+d+b+a)
-    
-    
